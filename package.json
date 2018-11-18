@@ -1,6 +1,6 @@
 {
   "name": "toolpocket",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A way of keeping all your important information to hand in the terminal.",
   "main": "src/toolpocket.js",
   "bin": {
