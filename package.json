@@ -1,10 +1,10 @@
 {
   "name": "toolpocket",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A way of keeping all your important information to hand in the terminal.",
   "main": "src/toolpocket.js",
   "bin": {
-    "gitkan": "src/toolpocket.js"
+    "tp": "src/toolpocket.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
