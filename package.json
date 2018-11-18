@@ -1,10 +1,10 @@
 {
   "name": "toolpocket",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A way of keeping all your important information to hand in the terminal.",
-  "main": "src/toolpocket.js",
+  "main": "src/tp.js",
   "bin": {
-    "tp": "src/toolpocket.js"
+    "tp": "src/tp.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
