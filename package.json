@@ -1,5 +1,5 @@
 {
-  "name": "back-pocket",
+  "name": "toolpocket",
   "version": "0.0.1",
   "description": "A way of keeping all your important information to hand in the terminal.",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "author": "Peter Hooper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diversemix/back-pocket/issues"
+    "url": "https://github.com/diversemix/toolpocket/issues"
   },
-  "homepage": "https://github.com/diversemix/back-pocket#readme"
+  "homepage": "https://github.com/diversemix/toolpocket#readme"
 }
